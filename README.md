@@ -1,3 +1,2 @@
 # Mon premier dépôt Git
-
-TP Git et GitHub - Modification du README
+TP Git & GitHub : modification du README
