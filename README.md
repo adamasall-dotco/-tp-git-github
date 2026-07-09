@@ -1,1 +1,3 @@
-# Mon premier dÇpìt Git 
+# Mon premier d√©p√¥t Git
+
+TP Git et GitHub - Modification du README
